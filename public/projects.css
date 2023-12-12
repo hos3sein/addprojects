@@ -1,0 +1,54 @@
+#main-body{
+    /* background-color: red; */
+    max-width: 1200px;
+    height: 1200px;
+    /* border-radius: 2%; */
+    /* border-radius: 20%; */
+}
+
+
+body{
+    background-color: rgb(255, 255, 255);
+    /* background-image: url('back.jpg');
+    background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover; */
+}
+
+
+a{
+    color: rgb(3, 3, 3);
+    text-decoration: none;
+}
+
+
+p{
+    color: rgb(0, 0, 0);
+}
+
+
+
+#record{
+    margin-top: 8%;
+    /* margin-bottom: 4%; */
+    border-style: groove;
+    border-radius: 12px 12px 12px 12px;
+    /* box-shadow: 5px 5px  80px  rgb(0, 0, 0); */
+    /* background-color: rgba(46, 57, 144, 0.17); */
+}
+
+nav{
+    border-radius: 12px 12px 12px 12px;
+    /* box-shadow: 5px 5px  80px  rgb(0, 0, 0); */
+}
+
+#project{
+    background-color: rgba(46, 57, 144, 0.17);
+    box-shadow: 5px 5px  80px  rgb(0, 0, 0);
+    border-radius: 12px 12px 12px 12px;
+    
+}
+#search{
+    margin-top: 5%;
+}
